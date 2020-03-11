@@ -1,0 +1,38 @@
+{
+  "name": "hrr44-front-end-capstone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "enzyme": "^3.11.0",
+    "eslint": "^6.8.0",
+    "express": "^4.17.1",
+    "jest": "^25.1.0",
+    "jquery": "^3.4.1",
+    "knex": "^0.20.11",
+    "moment": "^2.24.0",
+    "node": "^12.16.1",
+    "nodemon": "^2.0.2",
+    "postgresql": "^0.0.1",
+    "pug": "^2.0.4",
+    "react": "^16.13.0",
+    "sass": "^1.26.2",
+    "underscore": "^1.9.2",
+    "webpack": "^4.42.0",
+    "webpack-dev": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Navi-n-B/Front-End-Capstone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Navi-n-B/Front-End-Capstone/issues"
+  },
+  "homepage": "https://github.com/Navi-n-B/Front-End-Capstone#readme"
+}
